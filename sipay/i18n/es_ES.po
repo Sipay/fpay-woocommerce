@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "Check missing or invalid fields"
+msgstr "Verifica los campos que falten o inválidos"
+
+msgid "There was an error processing your payment, please try again"
+msgstr "Hubo un error procesando su pago, por favor, inténtelo de nuevo"
+
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+msgid "Enable Fastpay"
+msgstr "Activar Fastpay"
+
+msgid "Payment method checkout title"
+msgstr "Título del método de pago"
+
+msgid "Fastpay payment method title used in checkout"
+msgstr "Título del método de pago que será usado en el checkout"
+
+msgid "Fastpay review page title"
+msgstr "Título página de revisión Fastpay"
+
+msgid "This setting affects the title of the page that will be presented to customer after they been redirect back from payment gateway"
+msgstr "Esta configuración afecta al título de la página que será mostrada a los clientes después de que hayan sido redirigidos de vuelta de la pasarela de pago"
+
+msgid "Fastpay payment review"
+msgstr "Revisión de pago Fastpay"
+
+msgid "Commerce Key"
+msgstr "Commerce Key"
+
+msgid "Sipay provided commerce key"
+msgstr "La clave de comercio proporcionada"
+
+msgid "Environment"
+msgstr "Entorno"
+
+msgid "Environment. Sandbox is for integration "
+msgstr "Entorno. Sandbox es para la integración "
+
+msgid "Sipay secret"
+msgstr "Sipay secret"
+
+msgid "Sipay provided secret"
+msgstr "La clave secreta proporcionada"
+
+msgid "Sipay resource"
+msgstr "Sipay resource"
+
+msgid "Sipay provided resource for payment wall all"
+msgstr "La clave resource proporcionada para Payment Wall"
+
+msgid "extra"
+msgstr "extra"
+
+msgid "Extra info, leave it empty."
+msgstr "Info extra, dejar vacío."
+
+msgid "The order %s is not in pending payment status. Please, contact with the store with the order number to resolve the issue"
+msgstr "El pedido %s no está en el estado pendiente de pago. Por favor, contacta con el número de pedido a la tienda para resolver el problema"
+
+msgid "Order was canceled by Woocommerce before we completed the transaction, please review the transaction information and check with the customer if needed."
+msgstr "El pedido fue cancelado o cambiado de estado antes de que pudieramos completar la transacción. Por favor, comprueba la información de la transacción y contacta con el cliente si fuera necesario."
+
+msgid "Enable Express Checkout"
+msgstr "Activar Express Checkout"
+
+msgid "Product page"
+msgstr "Página de producto"
+
+msgid "Product page Enable Sipay"
+msgstr "Activar Sipay en página de producto"
+
+msgid "Custom container"
+msgstr "Configuración del contenedor"
+
+msgid "Container border color"
+msgstr "Color del borde del contenedor"
+
+msgid "Select color (border and text)"
+msgstr "Selecciona color (borde y texto)"
+
+msgid "Container border custom color"
+msgstr "Color personalizado del contenedor"
+
+msgid "Ex. #F1F1F1"
+msgstr "Ej. #F1F1F1"
+
+msgid "Only applied if \"Border color\" option is \"Custom\""
+msgstr "Solo se aplica si la propiedad \"Color del border del contenedor\" es \"Personalizado\""
+
+msgid "Container header title"
+msgstr "Título de cabecera"
+
+msgid "Container header font"
+msgstr "Tipografía de título de cabecera"
+
+msgid "If you want a custom font that is not included in the selector leave it in 'Without custom font' option and apply the font to #sipay_ec_container on your CSS stylesheet"
+msgstr "Si quieres una fuente personalizada que no este incluida en el selector selecciona la opción 'Sin fuente personalizada' y aplica la fuente al selector #sipay_ec_container en tu hoja de estilos CSS"
+
+msgid "Without custom font"
+msgstr "Sin fuente personalizada"
+
+msgid "Container descriptive text"
+msgstr "Texto descriptivo"
+
+msgid "Container descriptive font"
+msgstr "Tipografía del texto descriptivo"
+
+msgid "Position mode"
+msgstr "Modo de posicionamiento"
+
+msgid "Position DOM selector"
+msgstr "Selector DOM"
+
+msgid "Select the reference object in which you want to place the widget for a more custom configuration"
+msgstr "Selecciona el objeto de referencia en el cual quieres insertar el widget para una configuración más personalizada"
+
+msgid "Position Insertion"
+msgstr "Insercción de capa"
+
+msgid "Only applied if \"Position mode\" option is \"Manual\". Select where do you wanna put the widget relative to the reference object selected in the previous field"
+msgstr "Selecciona donde quieres posicionar el widget relativo al objeto selecciona en el anterior campo"
+
+msgid "DOM CSS custom style"
+msgstr "Estilo CSS personalizado"
+
+msgid "Ex. {\"background-color\":\"red\",\"color\":\"white\"}"
+msgstr "Ej. {\"background-color\":\"red\",\"color\":\"white\"}"
+
+msgid "Minicart Enable Sipay"
+msgstr "Activar Sipay en Minicarrito"
+
+msgid "Minicart"
+msgstr "Minicarrito"
+
+msgid "Cart Enable Sipay"
+msgstr "Activar Sipay en carrito"
+
+msgid "Cart"
+msgstr "Carrito"
+
+msgid "Value is not valid, example #F1F1F1"
+msgstr "El valor no es válido, ejemplo #F1F1F1"
+
+
+
